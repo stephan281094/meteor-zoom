@@ -2,7 +2,7 @@
 
 A simple jQuery plugin for image zooming; as seen on [Medium](https://medium.com/designing-medium/image-zoom-on-medium-24d146fc0c20). Wrapped for Meteor.
 
-### Demo
+## Demo
 https://fat.github.io/zoom.js
 
 ## How
@@ -18,6 +18,6 @@ https://fat.github.io/zoom.js
   ```
 
 
-### Who
+## Who
 
 Written by [@fat](https://twitter.com/fat), wrapped by [Stephan](https://github.com/stephan281094) and made better by you.
