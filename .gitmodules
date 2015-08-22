@@ -1,3 +1,6 @@
 [submodule "lib/zoom.js"]
 	path = lib/zoom.js
 	url = https://github.com/fat/zoom.js
+[submodule "lib/bootstrap"]
+	path = lib/bootstrap
+	url = https://github.com/twbs/bootstrap

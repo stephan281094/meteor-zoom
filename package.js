@@ -6,10 +6,11 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.0.0');
+  api.versionsFrom('1.0');
+  api.use('jquery', 'client');
   api.addFiles([
+    'lib/bootstrap/js/transition.js',
     'lib/zoom.js/dist/zoom.min.js',
-    'lib/zoom.js/js/transition.js',
     'lib/zoom.js/css/zoom.css'
-  ]);
+  ], 'client');
 });
