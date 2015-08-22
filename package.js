@@ -9,6 +9,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.0.0');
   api.addFiles([
     'lib/zoom.js/dist/zoom.min.js',
+    'lib/zoom.js/js/transition.js',
     'lib/zoom.js/css/zoom.css'
   ]);
 });
