@@ -20,5 +20,4 @@ https://fat.github.io/zoom.js
 
 ### Who
 
-Written by [@fat](https://twitter.com/fat), wrapped by
-[Stephan](https://github.com/stephan281094) and made better by you.
+Written by [@fat](https://twitter.com/fat), wrapped by [Stephan](https://github.com/stephan281094) and made better by you.
