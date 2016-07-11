@@ -1,6 +1,3 @@
-[submodule "lib/zoom.js"]
-	path = lib/zoom.js
-	url = https://github.com/fat/zoom.js
-[submodule "lib/bootstrap"]
-	path = lib/bootstrap
-	url = https://github.com/twbs/bootstrap
+[submodule "lib/zoom-vanilla.js"]
+	path = lib/zoom-vanilla.js
+	url = git@github.com:spinningarrow/zoom-vanilla.js.git
