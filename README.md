@@ -15,9 +15,9 @@ https://spinningarrow.github.io/zoom-vanilla.js
     ```
 2. Add a `data-action="zoom"` attribute to the images you want to make zoomable. For example:
 
-  ```html
-<img src="/img/blog_post_featured.png" data-action="zoom">
-  ```
+    ```html
+    <img src="/img/blog_post_featured.png" data-action="zoom">
+    ```
 
 More details on the [original README](https://github.com/spinningarrow/zoom-vanilla.js/blob/gh-pages/README.md).
 
