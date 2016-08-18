@@ -1,11 +1,13 @@
 # Meteor zoom.js
 
-A simple jQuery plugin for image zooming; as seen on [Medium](https://medium.com/designing-medium/image-zoom-on-medium-24d146fc0c20). Wrapped for Meteor.
+A simple plugin for image zooming; as seen on [Medium](https://medium.com/designing-medium/image-zoom-on-medium-24d146fc0c20). Wrapped for Meteor.
 
 ## Demo
-https://fat.github.io/zoom.js
+
+https://spinningarrow.github.io/zoom-vanilla.js
 
 ## How
+
 1. Add this package to your meteor app
 
     ```bash
@@ -17,7 +19,8 @@ https://fat.github.io/zoom.js
 <img src="/img/blog_post_featured.png" data-action="zoom">
   ```
 
+More details on the [original README](https://github.com/spinningarrow/zoom-vanilla.js/blob/gh-pages/README.md).
 
 ## Who
 
-Written by [@fat](https://twitter.com/fat), wrapped by [Stephan](https://github.com/stephan281094) and made better by you.
+Written by [spinningarrow](https://github.com/spinningarrow), wrapped by [Stephan](https://github.com/stephan281094) and made better by you.

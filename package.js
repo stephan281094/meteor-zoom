@@ -7,10 +7,8 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
-  api.use('jquery', 'client');
   api.addFiles([
-    'lib/bootstrap/js/transition.js',
-    'lib/zoom.js/dist/zoom.min.js',
-    'lib/zoom.js/css/zoom.css'
+    'lib/zoom-vanilla.js/dist/zoom-vanilla.min.js',
+    'lib/zoom-vanilla.js/css/zoom.css'
   ], 'client');
 });
