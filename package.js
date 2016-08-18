@@ -1,6 +1,6 @@
 Package.describe({
   name: 'inno:zoom',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Wrapper for Medium\'s Image Zoom Plugin',
   git: 'https://github.com/stephan281094/meteor-zoom'
 });
